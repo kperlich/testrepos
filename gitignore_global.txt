@@ -25,6 +25,7 @@ Thumbs.db
 
 config.php
 /cache/*
+cache/*
 /custom/applications
 /custom/modules/*/Ext/*
 .htaccess
